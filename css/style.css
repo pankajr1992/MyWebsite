@@ -1,0 +1,36 @@
+body{
+	background: #ccccff
+	margin:0;
+}
+.container
+{
+	background: #ffffff;
+	margin: 0 auto;
+	width: 80%;
+
+}
+.header
+{
+	padding: 45px 0 20px 40px;
+	border: 2px solid black; 
+}
+.menu{
+	background: #b3b3ff;
+	padding:6px 0 6px 6px;
+}
+
+.menu a{
+	color: #0000cc;
+	text-decoration: none;
+	font-size:15px;
+	font-family: "arial narrow","myriad pro";
+}
+.menu a:hover
+{
+	color: #6666ff;
+}
+aside{
+	float: left;
+	width:120px;
+	padding:30px 0 40px 30px;
+}
